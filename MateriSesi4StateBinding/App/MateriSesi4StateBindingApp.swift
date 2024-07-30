@@ -11,7 +11,7 @@ import SwiftUI
 struct MateriSesi4StateBindingApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Onboardingview()
         }
     }
 }

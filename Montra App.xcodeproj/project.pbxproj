@@ -8,17 +8,40 @@
 
 /* Begin PBXBuildFile section */
 		DB1C1ADC2B629B3D00DAF208 /* MateriSesi4StateBindingApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB1C1ADB2B629B3D00DAF208 /* MateriSesi4StateBindingApp.swift */; };
-		DB1C1ADE2B629B3D00DAF208 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB1C1ADD2B629B3D00DAF208 /* ContentView.swift */; };
 		DB1C1AE02B629B3F00DAF208 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DB1C1ADF2B629B3F00DAF208 /* Assets.xcassets */; };
 		DB1C1AE32B629B3F00DAF208 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DB1C1AE22B629B3F00DAF208 /* Preview Assets.xcassets */; };
+		DB1C1AED2B629D0600DAF208 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DB1C1AEC2B629D0600DAF208 /* LaunchScreen.storyboard */; };
+		DB1C1AF22B629EF900DAF208 /* Onboarding.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB1C1AF12B629EF900DAF208 /* Onboarding.swift */; };
+		DB1C1AF42B62A36C00DAF208 /* OnboardingSingleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB1C1AF32B62A36C00DAF208 /* OnboardingSingleView.swift */; };
+		DB1C1AF92B62AE6800DAF208 /* Inter-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DB1C1AF62B62AE6800DAF208 /* Inter-Bold.ttf */; };
+		DB1C1AFA2B62AE6800DAF208 /* Inter-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DB1C1AF72B62AE6800DAF208 /* Inter-Regular.ttf */; };
+		DB1C1AFB2B62AE6800DAF208 /* Inter-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DB1C1AF82B62AE6800DAF208 /* Inter-Medium.ttf */; };
+		DB1C1AFE2B62B4EB00DAF208 /* Onboardingview.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB1C1AFD2B62B4EB00DAF208 /* Onboardingview.swift */; };
+		DB1C1B002B62B6FE00DAF208 /* CustomDotIndicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB1C1AFF2B62B6FE00DAF208 /* CustomDotIndicator.swift */; };
+		DB1C1B022B62BB6D00DAF208 /* CustomLongButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB1C1B012B62BB6D00DAF208 /* CustomLongButton.swift */; };
+		DBAFE9B92B69494300C50E7B /* SignUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBAFE9B82B69494300C50E7B /* SignUpView.swift */; };
+		DBAFE9BB2B694A2A00C50E7B /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBAFE9BA2B694A2A00C50E7B /* LoginView.swift */; };
+		DBAFE9C22B6A52E900C50E7B /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBAFE9C12B6A52E900C50E7B /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		DB1C1AD82B629B3D00DAF208 /* MateriSesi4StateBinding.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MateriSesi4StateBinding.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DB1C1AD82B629B3D00DAF208 /* Montra App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Montra App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DB1C1ADB2B629B3D00DAF208 /* MateriSesi4StateBindingApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MateriSesi4StateBindingApp.swift; sourceTree = "<group>"; };
-		DB1C1ADD2B629B3D00DAF208 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		DB1C1ADF2B629B3F00DAF208 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DB1C1AE22B629B3F00DAF208 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		DB1C1AEC2B629D0600DAF208 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
+		DB1C1AF12B629EF900DAF208 /* Onboarding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Onboarding.swift; sourceTree = "<group>"; };
+		DB1C1AF32B62A36C00DAF208 /* OnboardingSingleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingSingleView.swift; sourceTree = "<group>"; };
+		DB1C1AF52B62AE4C00DAF208 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		DB1C1AF62B62AE6800DAF208 /* Inter-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Bold.ttf"; sourceTree = "<group>"; };
+		DB1C1AF72B62AE6800DAF208 /* Inter-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Regular.ttf"; sourceTree = "<group>"; };
+		DB1C1AF82B62AE6800DAF208 /* Inter-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Medium.ttf"; sourceTree = "<group>"; };
+		DB1C1AFD2B62B4EB00DAF208 /* Onboardingview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Onboardingview.swift; sourceTree = "<group>"; };
+		DB1C1AFF2B62B6FE00DAF208 /* CustomDotIndicator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomDotIndicator.swift; sourceTree = "<group>"; };
+		DB1C1B012B62BB6D00DAF208 /* CustomLongButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomLongButton.swift; sourceTree = "<group>"; };
+		DBAFE9B82B69494300C50E7B /* SignUpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpView.swift; sourceTree = "<group>"; };
+		DBAFE9BA2B694A2A00C50E7B /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
+		DBAFE9C12B6A52E900C50E7B /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,7 +66,7 @@
 		DB1C1AD92B629B3D00DAF208 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DB1C1AD82B629B3D00DAF208 /* MateriSesi4StateBinding.app */,
+				DB1C1AD82B629B3D00DAF208 /* Montra App.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -51,9 +74,11 @@
 		DB1C1ADA2B629B3D00DAF208 /* MateriSesi4StateBinding */ = {
 			isa = PBXGroup;
 			children = (
-				DB1C1ADB2B629B3D00DAF208 /* MateriSesi4StateBindingApp.swift */,
-				DB1C1ADD2B629B3D00DAF208 /* ContentView.swift */,
-				DB1C1ADF2B629B3F00DAF208 /* Assets.xcassets */,
+				DB1C1AF52B62AE4C00DAF208 /* Info.plist */,
+				DB1C1AEE2B629E9B00DAF208 /* Model */,
+				DB1C1AEB2B629CA900DAF208 /* App */,
+				DB1C1AEA2B629C9A00DAF208 /* Assets */,
+				DB1C1AE92B629C9400DAF208 /* Views */,
 				DB1C1AE12B629B3F00DAF208 /* Preview Content */,
 			);
 			path = MateriSesi4StateBinding;
@@ -67,12 +92,62 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
+		DB1C1AE92B629C9400DAF208 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				DB1C1AEC2B629D0600DAF208 /* LaunchScreen.storyboard */,
+				DB1C1AF32B62A36C00DAF208 /* OnboardingSingleView.swift */,
+				DB1C1B012B62BB6D00DAF208 /* CustomLongButton.swift */,
+				DB1C1AFF2B62B6FE00DAF208 /* CustomDotIndicator.swift */,
+				DB1C1AFD2B62B4EB00DAF208 /* Onboardingview.swift */,
+				DBAFE9B82B69494300C50E7B /* SignUpView.swift */,
+				DBAFE9BA2B694A2A00C50E7B /* LoginView.swift */,
+				DBAFE9C12B6A52E900C50E7B /* HomeView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		DB1C1AEA2B629C9A00DAF208 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				DB1C1AFC2B62AE7600DAF208 /* Fonts */,
+				DB1C1ADF2B629B3F00DAF208 /* Assets.xcassets */,
+			);
+			path = Assets;
+			sourceTree = "<group>";
+		};
+		DB1C1AEB2B629CA900DAF208 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				DB1C1ADB2B629B3D00DAF208 /* MateriSesi4StateBindingApp.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		DB1C1AEE2B629E9B00DAF208 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				DB1C1AF12B629EF900DAF208 /* Onboarding.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		DB1C1AFC2B62AE7600DAF208 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				DB1C1AF62B62AE6800DAF208 /* Inter-Bold.ttf */,
+				DB1C1AF82B62AE6800DAF208 /* Inter-Medium.ttf */,
+				DB1C1AF72B62AE6800DAF208 /* Inter-Regular.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		DB1C1AD72B629B3D00DAF208 /* MateriSesi4StateBinding */ = {
+		DB1C1AD72B629B3D00DAF208 /* Montra App */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DB1C1AE62B629B3F00DAF208 /* Build configuration list for PBXNativeTarget "MateriSesi4StateBinding" */;
+			buildConfigurationList = DB1C1AE62B629B3F00DAF208 /* Build configuration list for PBXNativeTarget "Montra App" */;
 			buildPhases = (
 				DB1C1AD42B629B3D00DAF208 /* Sources */,
 				DB1C1AD52B629B3D00DAF208 /* Frameworks */,
@@ -82,9 +157,9 @@
 			);
 			dependencies = (
 			);
-			name = MateriSesi4StateBinding;
+			name = "Montra App";
 			productName = MateriSesi4StateBinding;
-			productReference = DB1C1AD82B629B3D00DAF208 /* MateriSesi4StateBinding.app */;
+			productReference = DB1C1AD82B629B3D00DAF208 /* Montra App.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +177,7 @@
 					};
 				};
 			};
-			buildConfigurationList = DB1C1AD32B629B3D00DAF208 /* Build configuration list for PBXProject "MateriSesi4StateBinding" */;
+			buildConfigurationList = DB1C1AD32B629B3D00DAF208 /* Build configuration list for PBXProject "Montra App" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +190,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				DB1C1AD72B629B3D00DAF208 /* MateriSesi4StateBinding */,
+				DB1C1AD72B629B3D00DAF208 /* Montra App */,
 			);
 		};
 /* End PBXProject section */
@@ -125,7 +200,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DB1C1AED2B629D0600DAF208 /* LaunchScreen.storyboard in Resources */,
+				DB1C1AFA2B62AE6800DAF208 /* Inter-Regular.ttf in Resources */,
+				DB1C1AFB2B62AE6800DAF208 /* Inter-Medium.ttf in Resources */,
 				DB1C1AE32B629B3F00DAF208 /* Preview Assets.xcassets in Resources */,
+				DB1C1AF92B62AE6800DAF208 /* Inter-Bold.ttf in Resources */,
 				DB1C1AE02B629B3F00DAF208 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,7 +216,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DB1C1ADE2B629B3D00DAF208 /* ContentView.swift in Sources */,
+				DBAFE9C22B6A52E900C50E7B /* HomeView.swift in Sources */,
+				DB1C1AF22B629EF900DAF208 /* Onboarding.swift in Sources */,
+				DB1C1AF42B62A36C00DAF208 /* OnboardingSingleView.swift in Sources */,
+				DB1C1B002B62B6FE00DAF208 /* CustomDotIndicator.swift in Sources */,
+				DBAFE9B92B69494300C50E7B /* SignUpView.swift in Sources */,
+				DB1C1B022B62BB6D00DAF208 /* CustomLongButton.swift in Sources */,
+				DB1C1AFE2B62B4EB00DAF208 /* Onboardingview.swift in Sources */,
+				DBAFE9BB2B694A2A00C50E7B /* LoginView.swift in Sources */,
 				DB1C1ADC2B629B3D00DAF208 /* MateriSesi4StateBindingApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -275,11 +361,14 @@
 				DEVELOPMENT_TEAM = 77Q323D7ZJ;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = MateriSesi4StateBinding/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Montra App";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen.storyboard;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -287,9 +376,13 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.fancode.MateriSesi4StateBinding;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -304,11 +397,14 @@
 				DEVELOPMENT_TEAM = 77Q323D7ZJ;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = MateriSesi4StateBinding/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Montra App";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen.storyboard;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -316,16 +412,20 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.fancode.MateriSesi4StateBinding;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		DB1C1AD32B629B3D00DAF208 /* Build configuration list for PBXProject "MateriSesi4StateBinding" */ = {
+		DB1C1AD32B629B3D00DAF208 /* Build configuration list for PBXProject "Montra App" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DB1C1AE42B629B3F00DAF208 /* Debug */,
@@ -334,7 +434,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DB1C1AE62B629B3F00DAF208 /* Build configuration list for PBXNativeTarget "MateriSesi4StateBinding" */ = {
+		DB1C1AE62B629B3F00DAF208 /* Build configuration list for PBXNativeTarget "Montra App" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DB1C1AE72B629B3F00DAF208 /* Debug */,
